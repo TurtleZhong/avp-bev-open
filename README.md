@@ -91,7 +91,7 @@ Distributed under the MIT License.
 
 Xinliang Zhong - [@zxl](null) - xinliangzhong@foxmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/TurtleZhong/avp-bev-open)
+Project Link: [https://github.com/TurtleZhong/avp-bev-open](https://github.com/TurtleZhong/avp-bev-open)
 
 
 
