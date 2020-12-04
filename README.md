@@ -90,6 +90,7 @@ Distributed under the MIT License.
 ### Contact
 
 Xinliang Zhong - [@zxl](null) - xinliangzhong@foxmail.com
+Wenxuan Chen - [@wxchen](null) - wxchen@example.com
 
 Project Link: [https://github.com/TurtleZhong/avp-bev-open](https://github.com/TurtleZhong/avp-bev-open)
 
