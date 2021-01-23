@@ -11,6 +11,10 @@
   </a>
 
   <h3 align="center">AVP-BEV-OPEN</h3>
+  
+  <p align="center">
+    <a href="https://github.com/TurtleZhong/AVP_SLAM_SIM">Please check our new work AVP_SLAM_SIM</a>
+  </p>
 
   <p align="center">
     A pkg stiching around view images(4-6cameras) to generate bird's eye view!
